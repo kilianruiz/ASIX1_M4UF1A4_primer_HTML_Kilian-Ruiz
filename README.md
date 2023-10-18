@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mi Primera página HTML</title>
+    <h1>Mi primera página HTML</h1>
 </head>
 <body>
 </body>
